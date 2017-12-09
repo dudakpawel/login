@@ -152,15 +152,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 	<title>logowanie</title>
 	<script src='https://www.google.com/recaptcha/api.js'></script>
-	
-	<style>
-		.error
-		{
-			color:red;
-			margin-top: 10px;
-			margin-bottom: 10px;
-		}
-	</style>
+	<link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 
 <body>
